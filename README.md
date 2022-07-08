@@ -1,7 +1,8 @@
 # profile
 
-A new Flutter project.
-
+A new Flutter project.[OUTPUT Page] <br>
+<img src="https://github.com/aoffahad/Profile-page/blob/main/public/images/ProfileCode2Output.png" alt="output"/>
+<hr> <hr>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
