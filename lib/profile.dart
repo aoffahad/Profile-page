@@ -20,7 +20,7 @@ class _my_profileState extends State<my_profile> {
         child: Column(
           children: [
             Container(
-              margin: EdgeInsets.symmetric(vertical: 20),
+              margin: EdgeInsets.symmetric(vertical: 22),
               padding: EdgeInsets.all(6),
               height: 150,
               width: 150,
